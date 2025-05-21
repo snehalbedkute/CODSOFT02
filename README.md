@@ -68,5 +68,7 @@ This task demonstrates the step-by-step process of building and evaluating a **L
 ---
 
 **Name:** [Snehal Bedkute]  
-**Internship:** CodSoft - Data Science Internship  
+**Internship:** CodSoft - Data Science Internship 
+
+#CodSoft
  
